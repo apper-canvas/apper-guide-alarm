@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "moduleId": "1",
+    "completedAt": "2024-01-15T10:30:00Z",
+    "timeSpent": 12
+  },
+  {
+    "id": "2",
+    "moduleId": "2",
+    "completedAt": "2024-01-15T11:15:00Z",
+    "timeSpent": 15
+  }
+]

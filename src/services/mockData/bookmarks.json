@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "moduleId": "4",
+    "sectionTitle": "Crafting Your Prompt",
+    "content": "A good prompt includes: What you want to build, Who will use it, Key features you need",
+    "createdAt": "2024-01-15T14:20:00Z"
+  },
+  {
+    "id": "2",
+    "moduleId": "7",
+    "sectionTitle": "How to Communicate Effectively",
+    "content": "Be specific but natural - provide context and reference existing elements",
+    "createdAt": "2024-01-15T16:45:00Z"
+  }
+]

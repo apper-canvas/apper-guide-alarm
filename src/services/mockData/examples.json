@@ -1,0 +1,93 @@
+[
+  {
+    "id": "1",
+    "moduleId": "1",
+    "prompt": "I want to build a simple appointment booking system",
+    "output": "Apper will create a complete booking system with customer registration, service selection, calendar integration, payment processing, and admin dashboard - all ready to use immediately.",
+    "explanation": "This simple prompt gives Apper enough context to understand you need a service-based business app. It automatically includes features like user accounts, payment handling, and administrative tools because these are essential for any booking system."
+  },
+  {
+    "id": "2",
+    "moduleId": "1",
+    "prompt": "Create a recipe sharing app for food lovers",
+    "output": "Apper builds a social recipe platform with user profiles, recipe posting, photo uploads, ingredient lists, cooking instructions, rating system, and search functionality.",
+    "explanation": "The AI understands 'sharing' implies social features, so it includes user profiles, interaction capabilities, and community features automatically."
+  },
+  {
+    "id": "3",
+    "moduleId": "2",
+    "prompt": "Build me an online store for handmade jewelry",
+    "output": "Apper creates a complete e-commerce platform with product catalogs, shopping cart, payment processing, order management, customer accounts, and inventory tracking.",
+    "explanation": "Unlike template-based builders, Apper understands the specific needs of jewelry businesses and includes features like high-quality image galleries, size/material options, and artisan storytelling sections."
+  },
+  {
+    "id": "4",
+    "moduleId": "3",
+    "prompt": "Make a quiz game about world capitals",
+    "output": "Interactive quiz game with multiple choice questions, scoring system, leaderboards, different difficulty levels, and progress tracking.",
+    "explanation": "Apper recognizes this as an educational entertainment app and automatically includes gamification elements like scoring, achievements, and social comparison features."
+  },
+  {
+    "id": "5",
+    "moduleId": "3",
+    "prompt": "Create a client portal for my consulting business",
+    "output": "Professional client portal with project dashboards, file sharing, communication tools, invoicing, time tracking, and progress reports.",
+    "explanation": "The AI understands consulting businesses need professional project management features and client communication tools, so it builds a comprehensive business solution."
+  },
+  {
+    "id": "6",
+    "moduleId": "4",
+    "prompt": "Build a simple expense tracker for personal use",
+    "output": "Personal finance app with expense categories, budget tracking, spending analytics, receipt uploads, and monthly reports.",
+    "explanation": "This beginner-friendly prompt results in a focused personal tool with just the essential features for expense management, perfect for first-time app builders."
+  },
+  {
+    "id": "7",
+    "moduleId": "4",
+    "prompt": "Create a workout log where I can track exercises, sets, and reps for each gym session",
+    "output": "Fitness tracking app with exercise database, workout planning, progress charts, personal records tracking, and calendar integration.",
+    "explanation": "Apper identifies this as a fitness app and includes features like exercise libraries, progress visualization, and goal-setting that fitness enthusiasts expect."
+  },
+  {
+    "id": "8",
+    "moduleId": "7",
+    "prompt": "Add a customer review system to my booking app",
+    "output": "Apper adds review forms after appointments, star ratings, comment sections, review moderation tools, and displays reviews on service pages.",
+    "explanation": "The AI understands how reviews integrate with booking systems and automatically connects them to the existing appointment and customer data."
+  },
+  {
+    "id": "9",
+    "moduleId": "7",
+    "prompt": "Include email notifications when someone books an appointment",
+    "output": "Automated email system sends confirmations to customers and notifications to service providers, with customizable templates and scheduling reminders.",
+    "explanation": "Apper sets up the entire email infrastructure and creates professional email templates that match your brand, all configured to trigger at the right moments."
+  },
+  {
+    "id": "10",
+    "moduleId": "11",
+    "prompt": "Let customers sign up with their Google accounts",
+    "output": "Google Sign-In integration with one-click registration, automatic profile setup, and seamless account linking for existing users.",
+    "explanation": "Apper handles all the technical OAuth setup and creates a smooth user experience that imports profile information while respecting privacy preferences."
+  },
+  {
+    "id": "11",
+    "moduleId": "11",
+    "prompt": "Make the app only available to employees with company email addresses",
+    "output": "Domain-restricted registration system that only allows sign-ups from specified email domains, with admin approval workflow and company directory integration.",
+    "explanation": "This creates an enterprise-level access control system perfect for internal company tools, with proper security and user management features."
+  },
+  {
+    "id": "12",
+    "moduleId": "13",
+    "prompt": "Add a monthly subscription plan for premium features",
+    "output": "Complete subscription system with Stripe integration, plan management, feature gating, billing dashboard, and automatic renewal handling.",
+    "explanation": "Apper sets up the entire billing infrastructure, creates professional pricing pages, and implements feature restrictions that automatically unlock when users upgrade."
+  },
+  {
+    "id": "13",
+    "moduleId": "13",
+    "prompt": "Enable one-time payments for individual services",
+    "output": "Payment system with service pricing, secure checkout, receipt generation, payment history, and refund management.",
+    "explanation": "The AI creates a flexible payment system that works for service-based businesses, with proper tax handling and financial reporting features."
+  }
+]
